@@ -2,6 +2,6 @@ QUIZ 4 - FUNCIONES, REFERENCIAS Y PUNTEROS EN C++
 1. b)
 2. a)
 3. a)
-4.
+4. b)
 5. b)
 6. b)
